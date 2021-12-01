@@ -3,4 +3,4 @@ Protótipo de um site para uma pet shop chamada "Aves-Truz", localizada em Cubat
 
 Desenvolvido por: Aygon Cordeiro
 <br>
-LinkedIN: https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/
+Linkedin: https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/
